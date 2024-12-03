@@ -11,7 +11,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "just-a-test-of-custom-apps": "^0.1.4",
+    "just-a-test-of-custom-apps": "0.4.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },

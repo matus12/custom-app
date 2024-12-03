@@ -3,5 +3,8 @@
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
-  ]
+  ],
+  "compilerOptions": {
+    "types": ["./node_modules/just-a-test-of-custom-apps/dist/index.d.ts"]
+  }
 }
